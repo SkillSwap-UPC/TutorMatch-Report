@@ -36,110 +36,119 @@ Abril 2025
 |1\.4 |18/04/2025 |SkillSwapInc |Capítulo IV |
 |1\.5 |22/04/2025 |SkillSwapInc |Capítulo V |
 
-**Contenido** 
+# Tabla de Contenidos 
 
-Tabla de contenidos Student Outcome **Capítulo I: Introducción** 
+Student Outcome
+## Part I: As-Is Software Project
+## Capítulo I: Introducción
+### 1.1. Startup Profile
+- #### 1.1.1. Descripción de la Startup
+- #### 1.1.2. Perfiles de integrantes del equipo
+    
+### 1.2. Solution Profile
+- #### 1.2.1. Antecedentes y problemática
+- #### 1.2.2. Lean UX Process
+  - ##### 1.2.2.1. Lean UX Problem Statements
+  - ##### 1.2.2.2. Lean UX Assumptions
+  - ##### 1.2.2.3. Lean UX Hypothesis Statements
+  - ##### 1.2.2.4. Lean UX Canvas
+        
+### 1.3. Segmentos objetivo
 
-1. Startup Profile 
-   1. Descripción de la Startup 
-   1. Perfiles de integrantes del equipo 
-1. Solution Profile 
-1. Antecedentes y problemática 
-1. Lean UX Process. 
-   1. Lean UX Problem Statements. 
-   1. Lean UX Assumptions. 
-   1. Lean UX Hypothesis Statements. 
-   1. Lean UX Canvas. 
+## Capítulo II: Requirements & Analysis
+### 2.1. Competidores
+- #### 2.1.1. Análisis competitivo
+- #### 2.1.2. Estrategias y tácticas frente a competidores
+    
+### 2.2. Entrevistas
+- #### 2.2.1. Diseño de entrevistas
+- #### 2.2.2. Registro de entrevistas
+- #### 2.2.3. Análisis de entrevistas
+    
+### 2.3. Needfinding
+- #### 2.3.1. User Personas
+- #### 2.3.2. User Task Matrix
+- #### 2.3.3. User Journey Mapping
+- #### 2.3.4. Empathy Mapping
+- #### 2.3.5. As-is Scenario Mapping
+    
+### 2.4. Ubiquitous Language
 
-      3. Segmentos objetivo 
+## Capítulo III: Requirements Specification
+### 3.1. To-Be Scenario Mapping
+### 3.2. User Stories
+### 3.3. Impact Mapping
+### 3.4. Product Backlog
 
-**Capítulo II: Requirements & Analysis** 
+## Capítulo IV: Product Design
+### 4.1. Style Guidelines
+- #### 4.1.1. General Style Guidelines
+- #### 4.1.2. Web Style Guidelines
+- #### 4.1.3. Mobile Style Guidelines
+  - ##### 4.1.3.1. iOS Mobile Style Guidelines
+  - ##### 4.1.3.2. Android Mobile Style Guidelines
+      
+### 4.2. Information Architecture
+- #### 4.2.1. Organization Systems
+- #### 4.2.2. Labeling Systems
+- #### 4.2.3. SEO Tags and Meta Tags
+- #### 4.2.4. Searching Systems
+- #### 4.2.5. Navigation Systems
+    
+### 4.3. Landing Page UI Design
+- #### 4.3.1. Landing Page Wireframe
+- #### 4.3.2. Landing Page Mock-up
+    
+### 4.4. Mobile Applications UX/UI Design
+- #### 4.4.1. Mobile Applications Wireframes
+- #### 4.4.2. Mobile Applications Wireflow Diagrams
+- #### 4.4.3. Mobile Applications Mock-ups
+- #### 4.4.4. Mobile Applications User Flow Diagrams
+    
+### 4.5. Mobile Applications Prototyping
+- #### 4.5.1. Android Mobile Applications Prototyping
+- #### 4.5.2. iOS Mobile Applications Prototyping
+    
+### 4.6. Web Applications UX/UI Design
+- #### 4.6.1. Web Applications Wireframes
+- #### 4.6.2. Web Applications Wireflow Diagrams
+- #### 4.6.3. Web Applications Mock-ups
+- #### 4.6.4. Web Applications User Flow Diagrams
+    
+### 4.7. Web Applications Prototyping
 
-1. Competidores. 
-   1. Análisis competitivo. 
-   1. Estrategias y tácticas frente a competidores. 
-1. Entrevistas. 
-   1. Diseño de entrevistas. 
-   1. Registro de entrevistas. 
-   1. Análisis de entrevistas. 
-1. Needfinding. 
-1. User Personas. 
-1. User Task Matrix. 
-1. User Journey Mapping. 
-4. Empathy Mapping. 
-4. As-is Scenario Mapping. 
-4. Ubiquitous Language. 
+### 4.8. Domain-Driven Software Architecture
+- #### 4.8.1. Software Architecture Context Diagram
+- #### 4.8.2. Software Architecture Container Diagrams
+- #### 4.8.3. Software Architecture Components Diagrams
+    
+### 4.9. Software Object-Oriented Design
+- #### 4.9.1. Class Diagrams
+- #### 4.9.2. Class Dictionary
+    
+### 4.10. Database Design
+- #### 4.10.1. Relational/Non-Relational Database Diagram
 
-**Capítulo III: Requirements Specification** 
-
-1. To-Be Scenario Mapping. 
-1. User Stories. 
-1. Product Backlog. 
-1. Impact Mapping 
-
-**Capítulo IV: Product Design** 
-
-1. Style Guidelines. 
-1. General Style Guidelines. 
-1. Web Style Guidelines. 
-1. Mobile Style Guidelines. 
-1. iOS Mobile Style Guidelines. 
-1. Android Mobile Style Guidelines. 
-2. Information Architecture. 
-   1. Organization Systems. 
-   1. Labeling Systems. 
-   1. SEO Tags and Meta Tags 
-   1. Searching Systems. 
-   1. Navigation Systems. 
-2. Landing Page UI Design. 
-   1. Landing Page Wireframe. 
-   1. Landing Page Mock-up. 
-2. Mobile Applications UX/UI Design. 
-1. Mobile Applications Wireframes. 
-1. Mobile Applications Wireflow Diagrams. 
-1. Mobile Applications Mock-ups. 
-4. Mobile Applications User Flow Diagrams. 
-
-   5. Mobile Applications Prototyping. 
-      1. Android Mobile Applications Prototyping. 
-      1. iOS Mobile Applications Prototyping. 
-   5. Web Applications UX/UI Design. 
-      1. Web Applications Wireframes. 
-      1. Web Applications Wireflow Diagrams. 
-      1. Web Applications Mock-ups. 
-      1. Web Applications User Flow Diagrams. 
-   5. Web Applications Prototyping. 
-   5. Domain-Driven Software Architecture. 
-      1. Software Architecture Context Diagram. 
-      1. Software Architecture Container Diagrams. 
-      1. Software Architecture Components Diagrams. 
-   5. Software Object-Oriented Design. 
-   1. Class Diagrams. 
-   1. Class Dictionary. 
-
-      5. Database Design. 
-
-4\.10.1. Relational/Non-Relational Database Diagram. 
-
-**Capítulo V: Product Implementation** 
-
-1. Software Configuration Management. 
-   1. Software Development Environment Configuration. 
-   1. Source Code Management. 
-   1. Source Code Style Guide & Conventions. 
-   1. Software Deployment Configuration. 
-1. Product Implementation & Deployment. 
-   1. Sprint Backlogs. 
-   1. Implemented Landing Page Evidence 
-   1. Implemented Frontend-Web Application Evidence 
-   1. Implemented Native-Mobile Application Evidence 
-   1. Implemented RESTful API and/or Serverless Backend Evidence 
-   1. RESTful API documentation 
-   1. Team Collaboration Insights 
-1. Video About-the-Product. 
+## Capítulo V: Product Implementation
+### 5.1. Software Configuration Management
+- #### 5.1.1. Software Development Environment Configuration
+- #### 5.1.2. Source Code Management
+- #### 5.1.3. Source Code Style Guide & Conventions
+- #### 5.1.4. Software Deployment Configuration
+    
+### 5.2. Product Implementation & Deployment
+- #### 5.2.1. Sprint Backlogs
+- #### 5.2.2. Implemented Landing Page Evidence
+- #### 5.2.3. Implemented Frontend-Web Application Evidence
+- #### 5.2.4. Acuerdo de Servicio - SaaS
+- #### 5.2.5. Implemented Native-Mobile Application Evidence
+- #### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
+- #### 5.2.7. RESTful API documentation
+- #### 5.2.8. Team Collaboration Insights
+    
+### 5.3. Video About-the-Product
 
 **Student Outcome** 
-
 
 
 |Criterio específico |Acciones realizadas |Conclusiones |
