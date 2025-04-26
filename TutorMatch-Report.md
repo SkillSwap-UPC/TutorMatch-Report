@@ -793,13 +793,13 @@ En esta sección se expone el Ubiquitous Lenguage, una metodología que promueve
 
 Destaca la experiencia optimizada del estudiante, desde el registro y la búsqueda de tutorías hasta la sesión y retroalimentación final. Se muestra una secuencia fluida y clara que permite al alumno encontrar fácilmente apoyo académico, gestionar pagos y evaluar al tutor de forma sencilla, asegurando una experiencia efectiva y motivadora. 
 
-<img src="../assets/chapter3/TO-BE/TO-BE 1.jpeg">
+<img src="/assets/chapter3/TO-BE/TO-BE 1.jpeg">
 
 **To Be Scenario Mapping para Estudiantes que desean brindar tutorías** 
 
 Presenta una experiencia organizada y eficiente para los tutores, abarcando desde su registro inicial hasta la evaluación de sus tutorías. Cada paso permite publicar sus servicios, coordinar horarios, recibir pagos y mejorar continuamente con base en la retroalimentación, fomentando un entorno profesional y de desarrollo continuo dentro de la plataforma. 
 
-<img src="../assets/chapter3/TO-BE/TO-BE 2.jpeg">
+<img src="/assets/chapter3/TO-BE/TO-BE 2.jpeg">
 
 2. User Stories 
 
@@ -961,13 +961,13 @@ El **Product Backlog** es una lista priorizada que agrupa todas las característ
 
 Este Impact Map busca aumentar el registro y retención de estudiantes que necesitan apoyo académico. Se enfoca en facilitar la búsqueda de tutorías, mejorar la experiencia de registro, y fomentar  la  confianza  en  los  tutores  mediante  recomendaciones,  filtros  personalizados  y recordatorios automáticos. 
 
-<img src="../assets/chapter3/IMPACT MAPPING/IMPACT 1.jpeg">
+<img src="/assets/chapter3/IMPACT MAPPING/IMPACT 1.jpeg">
 
 **Descripción del Impact Map: Estudiantes que ofrecen tutorías** 
 
 Este Impact Map está orientado a captar tutores y facilitar la gestión de sus servicios. Se enfoca en visibilizar los beneficios de suscripción, simplificar el registro y publicación de tutorías, y ofrecer incentivos para mantener su participación activa en la plataforma. 
 
-<img src="../assets/chapter3/IMPACT MAPPING/IMPACT 2.jpeg">
+<img src="/assets/chapter3/IMPACT MAPPING/IMPACT 2.jpeg">
 
 <!-- FIN DEL CAPÍTULO: chapter3.md -->
 
@@ -990,7 +990,7 @@ Typography
 
 La elección tipográfica prioriza fuentes sans-serif como Roboto debido a su estilo moderno, sencillo y fácil de leer. Estas tipografías son especialmente adecuadas para entornos web, donde la claridad visual es esencial. Se establecerán jerarquías claras mediante variaciones de tamaño y peso para distinguir títulos, subtítulos y contenido principal, mejorando así la legibilidad y la experiencia de navegación del usuario. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.001.png">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.001.png">
 
 Colors 
 
@@ -1003,7 +1003,7 @@ El esquema de colores de TutorMatch ha sido diseñado cuidadosamente para transm
 - 313131 (RGB 49, 49, 49): Un gris oscuro que sirve como color de fondo principal, generando una base neutra que permite resaltar los demás colores. 
 - E33744 (RGB 227, 55, 68): Una variante más suave del rojo principal, utilizada en versiones alternativas de botones y componentes interactivos, manteniendo coherencia visual y variedad en el diseño. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.002.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.002.jpeg">
 
 Este esquema de colores ofrece un equilibrio entre dinamismo y solidez, guiando la atención del usuario hacia los elementos más importantes sin generar una sobrecarga visual. 
 
@@ -1185,25 +1185,25 @@ Los Sistemas de Búsqueda permiten a los usuarios encontrar lo que necesitan de 
 3. Landing Page UI Design. 
 1. Landing Page Wireframe. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.003.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.003.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.004.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.004.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.005.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.005.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.006.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.006.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.007.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.007.jpeg">
 
 2. Landing Page Mock-up. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.008.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.008.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.009.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.009.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.010.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.010.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.011.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.011.jpeg">
 
 4. Mobile Applications UX/UI Design. 
 
@@ -1213,13 +1213,13 @@ El diseño UX/UI de la aplicación móvil busca ofrecer una experiencia intuitiv
 
 En esta sección desarrollamos los wireframes para definir una versión inicial en el diseño del aplicativo móvil.[ https://www.figma.com/design/u1CLy39Kg9DlyplFzrtbFS/Tutormatch- Mobile-Design?node-id=0-1&t=pjbFTC6Upbm6hJ3e-1 ](https://www.figma.com/design/u1CLy39Kg9DlyplFzrtbFS/Tutormatch-Mobile-Design?node-id=0-1&t=pjbFTC6Upbm6hJ3e-1) 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.012.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.012.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.013.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.013.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.014.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.014.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.015.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.015.jpeg">
 
 2. Mobile Applications Wireflow Diagrams. 
 
@@ -1229,29 +1229,29 @@ En este apartado se realiza una representacion visual de la navegacion de los us
 
 User Goal: Crear Usuario 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.016.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.016.jpeg">
 
 User Goal: Unirse a un curso de tutorías 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.017.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.017.jpeg">
 
 User Goal: Crear curso 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.018.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.018.jpeg">
 
 3. Mobile Applications Mock-ups. 
 
 En esta sección desarrollamos los Mock-ups del aplicativo móvil, los cuales permiten ofrecer un mayor nivel de detalle en comparación a los Wireframes. [https://www.figma.com/design/u1CLy39Kg9DlyplFzrtbFS/Tutormatch-Mobile-Design?node- id=19-135&t=pjbFTC6Upbm6hJ3e-1 ](https://www.figma.com/design/u1CLy39Kg9DlyplFzrtbFS/Tutormatch-Mobile-Design?node-id=19-135&t=pjbFTC6Upbm6hJ3e-1) 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.019.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.019.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.020.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.020.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.021.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.021.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.022.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.022.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.023.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.023.jpeg">
 
 4. Mobile Applications User Flow Diagrams. 
 
@@ -1261,19 +1261,19 @@ User Goal: Crear cuenta
 
 El usuario ingresa directamente con su correo y contraseña si ya dispone de una cuenta; caso contrario, tendrá que registrarse. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.024.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.024.jpeg">
 
 User Goal: Unirse a curso 
 
 El usuario registrado estudiante como estudiante selecciona un curso para ver la información sobre las tutorías que este presenta y si el estudiante desea unirse se dirigirá al botón “Request Tutoring” para solicitar su inscripción. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.025.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.025.jpeg">
 
 User Goal: Crear curso 
 
 El proceso está diseñado para permitir a los tutores crear cursos de manera eficiente en la menor cantidad de pasos posibles, evitando saturar la aplicación móvil con múltiples pantallas. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.026.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.026.jpeg">
 
 5. Mobile Applications Prototyping. 
 
@@ -1283,7 +1283,7 @@ En esta sección se presentan los prototipos para versiones iOS y Android de la 
 
 La siguiente presentación de prototipos se divide, tomando como base los User Flow Diagramas y los User Goals, en 3 secciones. En primer lugar, se presenta la serie de pasos que el usuario seguirá para crear un cuenta y registrarse en la aplicación. En segundo lugar, se presentan los pasos que seguirá un tutor para crear un nuevo curso de tutorías o acceder a uno ya creado para editar sus datos. Por último, se presentan los pasos que seguirá un estudiante para solicitar la inscripción a un curso de tutorías. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.027.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.027.jpeg">
 
 [https://upcedupe- my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EU7RXDUvRBJHoVGwHWBjo20 Br25p15TC3O_KxYzb1oASjw?e=mbl5uX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYW xBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW 5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0 %3D ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EU7RXDUvRBJHoVGwHWBjo20Br25p15TC3O_KxYzb1oASjw?e=mbl5uX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
@@ -1291,7 +1291,7 @@ La siguiente presentación de prototipos se divide, tomando como base los User F
 
 La siguiente presentación de prototipos representa los mismos escenarios que la versión de Android explicada anteriormente, teniendo como única diferencia las dimensiones de la pantalla y determinados elementos. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.028.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.028.jpeg">
 
 
 [https://upcedupe- my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/Ed8SbHmYEL5Nrvp9mf- IikcBjP2zhXe9KYRXzqv1vNBbGA?e=hI5fDW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJ yYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1 MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZX cifX0%3D ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/Ed8SbHmYEL5Nrvp9mf-IikcBjP2zhXe9KYRXzqv1vNBbGA?e=hI5fDW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -1306,21 +1306,21 @@ Las vistas iniciales a la aplicación web se desarrollaron en el siguiente enlac
 
 Segmento Alumno 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.031.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.031.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.032.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.032.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.033.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.033.jpeg">
 
 Segmento Tutor: 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.036.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.036.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.037.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.037.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.038.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.038.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.039.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.039.jpeg">
 
 2. Web Applications Wireflow Diagrams. 
 
@@ -1328,15 +1328,15 @@ A continuación, se expresa la representación visual de la navegación de los u
 
 User Goal: Crear Usuario 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.040.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.040.jpeg">
 
 User Goal: Unirse a curso 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.041.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.041.jpeg">
 
 User Goal: Crear curso 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.042.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.042.jpeg">
 
 3. Web Applications Mock-ups. 
 
@@ -1344,21 +1344,21 @@ User Goal: Crear curso
 
 ![ref6]
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.045.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.045.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.046.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.046.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.047.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.047.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.048.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.048.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.049.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.049.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.050.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.050.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.051.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.051.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.052.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.052.jpeg">
 
 4. Web Applications User Flow Diagrams. 
 
@@ -1368,25 +1368,25 @@ User Goal: Crear Cuenta
 
 Explicación: Este flujo ideal muestra cómo un nuevo usuario puede registrarse de manera rápida y sencilla en TutorMatch. Todo funciona como se espera, sin ningún obstáculo o error que interrumpa el proceso. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.053.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.053.jpeg">
 
 User Goal: Unirse a curso 
 
 Explicación: Un usuario registrado en TutorMatch puede explorar una variedad de cursos, filtrarlos por sus intereses y seleccionar el que más le convenga. Una vez elegido el curso, puede inscribirse fácilmente completando un formulario de registro. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.054.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.054.jpeg">
 
 User Goal: Crear curso 
 
 Explicación: El proceso está diseñado para ser intuitivo y permitir a los tutores crear cursos de manera eficiente. La plataforma ofrece herramientas y guías para facilitar este proceso y asegurar la calidad de los cursos. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.055.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.055.jpeg">
 
 7. Web Applications Prototyping. 
 
 A continuación presentamos los prototipos designados para la landing page y aplicación web.  
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.056.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.056.jpeg">
 
 [https://upcedupe- my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EdKCNuLoVaJPgNwY6rKfAYsBC DvIGjBZ8C5A3tpnHlLHSQ?e=BS9mX9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWx BcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5 rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0 %3D ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EdKCNuLoVaJPgNwY6rKfAYsBCDvIGjBZ8C5A3tpnHlLHSQ?e=BS9mX9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
@@ -1395,26 +1395,26 @@ A continuación presentamos los prototipos designados para la landing page y apl
 
 El diagrama de contexto proporciona una perspectiva general de las interacciones entre la plataforma TutorMatch y sus distintos usuarios. Representa las conexiones clave con los perfiles que acceden al sistema, como estudiantes y tutores, así como posibles vínculos con servicios o sistemas externos. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.057.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.057.jpeg">
 
 2. Software Architecture Container Diagrams. 
 
 El diagrama de contenedores muestra una vista de las relaciones entre la página principal de TutorMatch, la aplicación web, el gateway de API y los contextos delimitados que forman parte de la arquitectura del sistema TutorMatch. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.058.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.058.jpeg">
 
 3. Software Architecture Components Diagrams. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.059.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.059.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.060.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.060.jpeg">
 
 9. Software Object-Oriented Design. 
 1. Class Diagrams. 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.061.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.061.jpeg">
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.062.jpeg">
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.062.jpeg">
 
 2. Class Dictionary. 
 1. Clase Tutor 
@@ -1562,7 +1562,7 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
 
 4\.10.1. Relational/Non-Relational Database Diagram 
 
-<img src="../assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.063.jpeg">  
+<img src="/assets/chapter4/Aspose.Words.68faf6e8-4c3d-44f8-99fc-849b4e939981.063.jpeg">  
 
 
 <!-- FIN DEL CAPÍTULO: chapter4.md -->
