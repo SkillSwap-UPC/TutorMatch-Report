@@ -1777,7 +1777,10 @@ Evidencias de la implementación de la Api:[ https://stellar-reflection- product
 
 
 ### 5.2.7. Team Collaboration Insights
-
+[![1.png](https://i.postimg.cc/8Cx6kpbm/1.png)](https://postimg.cc/B8c6MGkj) 
+[![2.png](https://i.postimg.cc/PqCDkp1q/2.png)](https://postimg.cc/v1dTrmqR) 
+[![3.png](https://i.postimg.cc/4xLcMb7M/3.png)](https://postimg.cc/ZWN0vNLF) 
+[![4.png](https://i.postimg.cc/Jz4JPdnZ/4.png)](https://postimg.cc/SJ3JKdcx) 
 
 ## 5.3. Video About-the-Product
 
